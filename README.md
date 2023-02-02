@@ -3,7 +3,7 @@ R in the Lab: Simultaneous Optimization of Several Response Variables
 
 A brief R tutorial about how to perform simultaneous optimization of several responses.
 
-You can read the post for this repository by clicking on: <a href="">R in the Lab: Simultaneous Optimization of Several Response Variables</a>.
+You can read the post for this repository by clicking on: <a href="https://r-inthelab.net/2023/02/02/simultaneous-optimization-of-several-response-variables/">R in the Lab: Simultaneous Optimization of Several Response Variables</a>.
 
 Juan Pablo Carreón Hidalgo 🤓
 
